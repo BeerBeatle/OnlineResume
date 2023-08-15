@@ -1,0 +1,82 @@
+/*-------- Tag Selectors ----------*/
+
+body{
+  background-color: #314361;
+}
+
+hr{
+  background-color: #314361;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #758195;
+  border-width: 7px;
+  width: 3%;
+}
+h1{
+  color: #45C5C4;
+}
+
+h2{
+  color: #45C5C4;
+}
+
+h3{
+  color: #FBA819;
+}
+
+h3:hover{
+  background-color: #475D85;
+  color: white;
+}
+
+td{
+  color: #BFBFBF;
+}
+
+p{
+  color: #BFBFBF;
+}
+
+p:hover{
+  background-color: #475D85;
+  color: white;
+}
+
+td:Front{
+  color: white;
+}
+
+li{
+  list-style-type: none;
+  color: #BFBFBF;
+}
+
+label{
+  color: #BFBFBF;
+}
+
+a, a:link, a:visited {
+  color: #B799FF;
+  text-decoration: underline;
+  background-color: #314361;
+}
+
+
+
+/*-------- Global Selector ----------*/
+.workLogo{
+  height: 80px;
+  width: 150px;
+}
+
+.hightlightItem:hover{
+  background-color: #475D85;
+  color: white;
+}
+
+.workPosition{
+  font-weight: bold;
+}
+
+
+/*-------- ID Selector ----------*/
